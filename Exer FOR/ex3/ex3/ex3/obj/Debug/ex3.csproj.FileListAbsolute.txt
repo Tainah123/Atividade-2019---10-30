@@ -1,0 +1,13 @@
+C:\Users\etec\source\repos\Exer FOR\exe2\ex3\ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\etec\source\repos\Exer FOR\exe2\ex3\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\etec\source\repos\Exer FOR\exe2\ex3\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\etec\source\repos\Exer FOR\exe2\ex3\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\Exer FOR\exe2\ex3\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\etec\source\repos\Exer FOR\exe2\ex3\ex3\ex3\obj\Debug\ex3.pdb
+E:\programaçao e algoritmos\Exer FOR\ex3\ex3\ex3\bin\Debug\ex3.exe.config
+E:\programaçao e algoritmos\Exer FOR\ex3\ex3\ex3\bin\Debug\ex3.exe
+E:\programaçao e algoritmos\Exer FOR\ex3\ex3\ex3\bin\Debug\ex3.pdb
+E:\programaçao e algoritmos\Exer FOR\ex3\ex3\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+E:\programaçao e algoritmos\Exer FOR\ex3\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+E:\programaçao e algoritmos\Exer FOR\ex3\ex3\ex3\obj\Debug\ex3.exe
+E:\programaçao e algoritmos\Exer FOR\ex3\ex3\ex3\obj\Debug\ex3.pdb

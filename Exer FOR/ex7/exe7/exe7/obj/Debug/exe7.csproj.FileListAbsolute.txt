@@ -1,0 +1,7 @@
+E:\programaçao e algoritmos\Exer FOR\ex7\exe7\exe7\bin\Debug\exe7.exe.config
+E:\programaçao e algoritmos\Exer FOR\ex7\exe7\exe7\bin\Debug\exe7.exe
+E:\programaçao e algoritmos\Exer FOR\ex7\exe7\exe7\bin\Debug\exe7.pdb
+E:\programaçao e algoritmos\Exer FOR\ex7\exe7\exe7\obj\Debug\exe7.csprojAssemblyReference.cache
+E:\programaçao e algoritmos\Exer FOR\ex7\exe7\exe7\obj\Debug\exe7.csproj.CoreCompileInputs.cache
+E:\programaçao e algoritmos\Exer FOR\ex7\exe7\exe7\obj\Debug\exe7.exe
+E:\programaçao e algoritmos\Exer FOR\ex7\exe7\exe7\obj\Debug\exe7.pdb

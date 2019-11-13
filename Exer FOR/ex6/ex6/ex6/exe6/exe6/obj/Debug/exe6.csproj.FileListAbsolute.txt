@@ -1,0 +1,6 @@
+E:\programaçao e algoritmos\Exer FOR\ex6\ex6\ex6\exe6\exe6\bin\Debug\exe6.exe.config
+E:\programaçao e algoritmos\Exer FOR\ex6\ex6\ex6\exe6\exe6\bin\Debug\exe6.exe
+E:\programaçao e algoritmos\Exer FOR\ex6\ex6\ex6\exe6\exe6\bin\Debug\exe6.pdb
+E:\programaçao e algoritmos\Exer FOR\ex6\ex6\ex6\exe6\exe6\obj\Debug\exe6.csproj.CoreCompileInputs.cache
+E:\programaçao e algoritmos\Exer FOR\ex6\ex6\ex6\exe6\exe6\obj\Debug\exe6.exe
+E:\programaçao e algoritmos\Exer FOR\ex6\ex6\ex6\exe6\exe6\obj\Debug\exe6.pdb

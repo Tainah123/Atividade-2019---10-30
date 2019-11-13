@@ -1,0 +1,7 @@
+E:\programaçao e algoritmos\Exer FOR\ex8\ex8\ex8\bin\Debug\ex8.exe.config
+E:\programaçao e algoritmos\Exer FOR\ex8\ex8\ex8\bin\Debug\ex8.exe
+E:\programaçao e algoritmos\Exer FOR\ex8\ex8\ex8\bin\Debug\ex8.pdb
+E:\programaçao e algoritmos\Exer FOR\ex8\ex8\ex8\obj\Debug\ex8.csprojAssemblyReference.cache
+E:\programaçao e algoritmos\Exer FOR\ex8\ex8\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+E:\programaçao e algoritmos\Exer FOR\ex8\ex8\ex8\obj\Debug\ex8.exe
+E:\programaçao e algoritmos\Exer FOR\ex8\ex8\ex8\obj\Debug\ex8.pdb

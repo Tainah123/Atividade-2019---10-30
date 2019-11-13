@@ -1,0 +1,9 @@
+C:\Users\etec\Desktop\Exer FOR\ex4\ex5\ex5\ex5\obj\Debug\ex5.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Exer FOR\ex4\ex5\ex5\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+E:\programaçao e algoritmos\Exer FOR\ex5\ex5\ex5\obj\Debug\ex5.csprojAssemblyReference.cache
+E:\programaçao e algoritmos\Exer FOR\ex5\ex5\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+E:\programaçao e algoritmos\Exer FOR\ex5\ex5\ex5\bin\Debug\ex5.exe.config
+E:\programaçao e algoritmos\Exer FOR\ex5\ex5\ex5\bin\Debug\ex5.exe
+E:\programaçao e algoritmos\Exer FOR\ex5\ex5\ex5\bin\Debug\ex5.pdb
+E:\programaçao e algoritmos\Exer FOR\ex5\ex5\ex5\obj\Debug\ex5.exe
+E:\programaçao e algoritmos\Exer FOR\ex5\ex5\ex5\obj\Debug\ex5.pdb

@@ -1,0 +1,7 @@
+C:\Users\etec\source\repos\Exer FOR\exer1\exer1\bin\Debug\exer1.exe.config
+C:\Users\etec\source\repos\Exer FOR\exer1\exer1\bin\Debug\exer1.exe
+C:\Users\etec\source\repos\Exer FOR\exer1\exer1\bin\Debug\exer1.pdb
+C:\Users\etec\source\repos\Exer FOR\exer1\exer1\obj\Debug\exer1.csprojAssemblyReference.cache
+C:\Users\etec\source\repos\Exer FOR\exer1\exer1\obj\Debug\exer1.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\Exer FOR\exer1\exer1\obj\Debug\exer1.exe
+C:\Users\etec\source\repos\Exer FOR\exer1\exer1\obj\Debug\exer1.pdb
